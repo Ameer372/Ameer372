@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/99a22745-040d-4c75-ab97-04eb8c9e7acc)# Hi, I'm Ameer Salim 👋  
+# Hi, I'm Ameer Salim 👋  
 ### Front-End Developer | Next.js | React | Flutter  
 
 🚀 Passionate about building interactive and scalable web applications.  
