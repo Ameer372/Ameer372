@@ -11,9 +11,9 @@
 
 ## 📌 Projects  
 - **[Wensaa](https://wensaa-897b68222926.herokuapp.com/)** – Event exploration & ticket booking website (Vanilla Js, HTML, CSS, Flask)
-  ![Wensaa Screenshot](images/wensaa_home.png)
-  ![Wensaa Screenshot](images/wensaa_auth.png)
-  ![Wensaa Screenshot](images/wensaa_dash.png)
+  ![Wensaa Screenshot](https://github.com/Ameer372/Ameer372/blob/main/images/wensaa_home.PNG)
+  ![Wensaa Screenshot](images/wensaa_auth.PNG)
+  ![Wensaa Screenshot](images/wensaa_dash.PNG)
 - **Wholesale Tracker** – A shop management system (Flutter, GetX)  
 - **Google Maps Component** – A reusable map with markers (Next.js, @googlemaps/js-api-loader)  
 
