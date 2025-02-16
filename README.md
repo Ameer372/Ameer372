@@ -1,4 +1,4 @@
-# Hi, I'm Ameer Salim 👋  
+![image](https://github.com/user-attachments/assets/99a22745-040d-4c75-ab97-04eb8c9e7acc)# Hi, I'm Ameer Salim 👋  
 ### Front-End Developer | Next.js | React | Flutter  
 
 🚀 Passionate about building interactive and scalable web applications.  
@@ -21,15 +21,15 @@
    ![GameHub Screenshot](images/gamehub_home.PNG)
   
 ## Wholesale Tracker
-- ** A shop management system (Flutter, GetX)
-   ![Wholesale Tracker Screenshot](images/wholesale.jpg)
+- ** A shop management system ** (Flutter, GetX)
+   ![Wholesale Tracker Screenshot](https://github.com/Ameer372/Ameer372/blob/main/images/wholesale%20.jpg)
 
 ## Code Roaster
-- ** A VisualStudio extension that makes fun of your code (TypeScript, JavaScript)
+- ** A VisualStudio extension that makes fun of your code ** (TypeScript, JavaScript)
   ![CodeRoaster Screenshot](images/coderoaster_ext.PNG)
 
 ## Dungeon Game
-- ** A 2D dungeon-like game (Unity, C#)
+- ** A 2D dungeon-like game ** (Unity, C#)
   ![Dungeon Game Screenshot](images/dungeon_home.PNG)
 
 
