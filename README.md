@@ -10,8 +10,8 @@
 - **Game Development:** Unity, C#
 
 ## 📌 Projects  
-- **[Wensaa](https://wensaa-897b68222926.herokuapp.com/)** – Event exploration & ticket booking website (Vanilla Js, HTML, CSS, Flask)
-  ![Wensaa Screenshot](https://github.com/Ameer372/Ameer372/blob/main/images/wensaa_home.PNG)
+- ##[Wensaa](https://wensaa-897b68222926.herokuapp.com/)** – Event exploration & ticket booking website (Vanilla Js, HTML, CSS, Flask)
+  ![Wensaa Screenshot](images/wensaa_home.PNG)
   ![Wensaa Screenshot](images/wensaa_auth.PNG)
   ![Wensaa Screenshot](images/wensaa_dash.PNG)
 - **Wholesale Tracker** – A shop management system (Flutter, GetX)  
