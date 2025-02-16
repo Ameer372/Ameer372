@@ -10,7 +10,8 @@
 - **Game Development:** Unity, C#
 
 ## 📌 Projects  
-- ##[Wensaa](https://wensaa-897b68222926.herokuapp.com/)** – Event exploration & ticket booking website (Vanilla Js, HTML, CSS, Flask)
+## Wensaa
+- **[Wensaa](https://wensaa-897b68222926.herokuapp.com/)** – Event exploration & ticket booking website (Vanilla Js, HTML, CSS, Flask)
   ![Wensaa Screenshot](images/wensaa_home.PNG)
   ![Wensaa Screenshot](images/wensaa_auth.PNG)
   ![Wensaa Screenshot](images/wensaa_dash.PNG)
