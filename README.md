@@ -1,12 +1,12 @@
 # Hi, I'm Ameer Salim 👋  
-### Front-End Developer | Next.js | React | Flutter  
+### Front-End Developer | Next.js | React | Typescript
 
 🚀 Passionate about building interactive and scalable web applications.  
 
 ## 🛠 Skills  
-- **Front-End:** Next.js, React.js, Tailwind CSS, JavaScript, TypeScript
-- **Back-End:** Node.js, Python, Flask, SQLite3
-- **Mobile Development:** Flutter, GetX, Dart
+- **Front-End:** Next.js, React.js, Tailwind CSS, JavaScript, TypeScript, HTML, CSS
+- **Back-End:** Node.js, Express.js, Python, Flask, SQLite3, Postman
+- **Mobile Development:** Flutter, Dart
 - **Game Development:** Unity, C#
 
 ## 📌 Projects  
